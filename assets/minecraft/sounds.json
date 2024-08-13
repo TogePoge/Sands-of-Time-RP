@@ -1,0 +1,20 @@
+{   
+    "custom.321": {"catrgory":"master","sounds": ["custom/321"]},
+    "custom.bigcoins": {"catrgory":"master","sounds": ["custom/bigcoins"]},
+    "custom.go": {"catrgory":"master","sounds": ["custom/go"]},
+    "custom.lock_in": {"catrgory":"master","sounds": ["custom/lock_in"]},
+    "custom.sandsoftimemusic": {"catrgory":"master","sounds": ["custom/music_sot"]},
+    "custom.queue_countdown": {"catrgory":"master","sounds": ["custom/queue_countdown"]},
+    "custom.queue_joining": {"catrgory":"master","sounds": ["custom/queue_joining"]},
+    "custom.queue_success": {"catrgory":"master","sounds": ["custom/queue_success"]},
+    "custom.queue_teleport": {"catrgory":"master","sounds": ["custom/queue_teleport"]},
+    "custom.sand_place_1": {"catrgory":"master","sounds": ["custom/sand_place1"]},
+    "custom.sand_place_2": {"catrgory":"master","sounds": ["custom/sand_place2"]},
+    "custom.sand_place_3": {"catrgory":"master","sounds": ["custom/sand_place3"]},
+    "custom.sandtimer_10s": {"catrgory":"master","sounds": ["custom/sandtimer_10sec"]},
+    "custom.sandtimer_20s": {"catrgory":"master","sounds": ["custom/sandtimer_20sec"]},
+    "custom.sandtimer_30s": {"catrgory":"master","sounds": ["custom/sandtimer_30sec"]},
+    "custom.scoreacquired": {"catrgory":"master","sounds": ["custom/scoreacquired"]},
+    "custom.smallcoins": {"catrgory":"master","sounds": ["custom/smallcoins"]},
+    "custom.teamvault_open": {"catrgory":"master","sounds": ["custom/teamvault_open"]}
+}
