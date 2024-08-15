@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "white_dye",
+	"parent": "brown_dye",
 	"textures": {
 		"0": "item/brown_dye",
 		"particle": "item/brown_dye"
