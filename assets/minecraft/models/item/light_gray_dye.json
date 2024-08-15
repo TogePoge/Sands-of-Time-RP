@@ -3,7 +3,7 @@
 	"parent": "light_gray_dye",
 	"textures": {
 		"0": "item/light_gray_dye",
-		"particle": "item/item/light_gray_dye"
+		"particle": "item/light_gray_dye"
 	},
 	"elements": [
 		{
