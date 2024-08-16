@@ -16,5 +16,6 @@
     "custom.sandtimer_30s": {"catrgory":"master","sounds": ["custom/sandtimer_30sec"]},
     "custom.scoreacquired": {"catrgory":"master","sounds": ["custom/scoreacquired"]},
     "custom.smallcoins": {"catrgory":"master","sounds": ["custom/smallcoins"]},
+    "custom.teameliminated": {"catrgory":"master","sounds": ["custom/teameliminated"]},
     "custom.teamvault_open": {"catrgory":"master","sounds": ["custom/teamvault_open"]}
 }
