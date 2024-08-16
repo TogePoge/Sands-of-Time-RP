@@ -1,0 +1,4 @@
+{
+    "death.attack.ran_out_of_time": "%1$s ran out of time!",
+    "death.attack.ran_out_of_time.player": "%1$s ran out of time because of %2$s"
+}
