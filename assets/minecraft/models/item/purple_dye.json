@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/purple_dye",
-		"particle": "item/purple_dye"
+		"particle": "item/purple_dyee"
 	},
 	"elements": [
 		{
@@ -181,6 +181,11 @@
 		"head": {
 			"translation": [0, -20, 0],
 			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -18],
+			"scale": [2, 2, 2]
 		}
 	}
 }
