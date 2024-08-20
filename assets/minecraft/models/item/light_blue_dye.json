@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/light_blue_dye",
+	"parent": "light_blue_dye",
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "item/light_blue_dye",
-		"particle": "item/light_blue_dye"
+		"particle": "block/texture"
 	},
 	"elements": [
 		{

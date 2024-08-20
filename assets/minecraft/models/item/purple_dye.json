@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/purple_dye",
+	"parent": "purple_dye",
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/purple_dye",
-		"particle": "item/purple_dyee"
+		"particle": "block/texture"
 	},
 	"elements": [
 		{

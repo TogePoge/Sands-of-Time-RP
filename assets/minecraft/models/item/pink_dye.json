@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/pink_dye",
+	"parent": "pink_dye",
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "item/pink_dye",
@@ -102,5 +102,13 @@
 			"translation": [0, 0, -14],
 			"scale": [2, 2, 2]
 		}
-	}
+	},
+	"groups": [
+		{
+			"name": "zombie",
+			"origin": [4, 0, 6],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
 }
