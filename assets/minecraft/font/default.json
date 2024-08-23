@@ -3,8 +3,8 @@
         {
             "type": "bitmap",
             "file": "sandsoftime:font/logo.png",
-            "ascent":64,
-            "height": 128,
+            "ascent":39,
+            "height": 78,
             "chars": ["\uA000"]
         }
     ]
