@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "sandsoftime:font/logo.png",
+            "ascent":64,
+            "height": 128,
+            "chars": ["\uA000"]
+        }
+    ]
+}
