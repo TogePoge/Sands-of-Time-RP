@@ -18,5 +18,6 @@
     "custom.smallcoins": {"catrgory":"master","sounds": ["custom/smallcoins"]},
     "custom.teameliminated": {"catrgory":"master","sounds": ["custom/teameliminated"]},
     "custom.pop": {"catrgory":"master","sounds": ["custom/pop"]},
+    "custom.dooropen": {"catrgory":"master","sounds": ["custom/dooropen"]},
     "custom.teamvault_open": {"catrgory":"master","sounds": ["custom/teamvault_open"]}
 }
