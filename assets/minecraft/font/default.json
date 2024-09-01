@@ -13,13 +13,6 @@
             "ascent":256,
             "height": 512,
             "chars": ["\uA001"]
-        },
-        {
-            "type": "bitmap",
-            "file": "sandsoftime:font/sign_glow.png",
-            "ascent":39,
-            "height": 78,
-            "chars": ["\uA002"]
         }
     ]
 }
