@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/feather"
     },
     "overrides": [
-      {"predicate": {"custom_model_data": 1},"model": "sandsoftime:sandsoftime/color_fade"}
+      {"predicate": {"custom_model_data": 1},"model": "sandsoftime:sandsoftime/color_fade"},
+      {"predicate": {"custom_model_data": 2},"model": "sandsoftime:sandsoftime/lime_color_fade"}
     ]
   }
