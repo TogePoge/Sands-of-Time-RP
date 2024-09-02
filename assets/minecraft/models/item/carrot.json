@@ -140,7 +140,11 @@
 	],
 	"display": {
 		"ground": {
+			"rotation": [0, 90, 0],
 			"scale": [4, 4, 4]
+		},
+		"head": {
+			"rotation": [0, 90, 0]
 		}
 	},
 	"groups": [
