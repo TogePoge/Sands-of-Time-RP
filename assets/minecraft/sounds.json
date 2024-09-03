@@ -22,5 +22,6 @@
     "custom.countdown": {"catrgory":"master","sounds": ["custom/countdown"]},
     "custom.timerfull": {"catrgory":"master","sounds": ["custom/timerfull"]},
     "custom.keypickup": {"catrgory":"master","sounds": ["custom/keypickup"]},
+    "custom.gateopen": {"catrgory":"master","sounds": ["custom/gateopen"]},
     "custom.teamvault_open": {"catrgory":"master","sounds": ["custom/teamvault_open"]}
 }
