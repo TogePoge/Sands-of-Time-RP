@@ -1,4 +1,11 @@
 {
     "death.attack.ran_out_of_time": "%1$s ran out of time!",
-    "death.attack.ran_out_of_time.player": "%1$s ran out of time because of %2$s"
+    "death.attack.ran_out_of_time.player": "%1$s ran out of time because of %2$s",
+    "menu.game":"\uA005",
+    "menu.returnToGame":"\uA004",
+    "gui.advancements":"Island Commands",
+    "menu.shareToLan":"\uA003",
+    "menu.disconnect":"\uA004",
+    "advancements.empty":"\uA002",
+    "advancements.sad_label":"\uA002"
 }

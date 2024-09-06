@@ -13,6 +13,34 @@
             "ascent":256,
             "height": 512,
             "chars": ["\uA001"]
+        },
+        {
+            "type":"bitmap",
+            "file":"sandsoftime:font/commands.png",
+            "chars":["\uA002"],
+            "ascent":71,
+            "height":320
+        },
+        {
+            "type":"bitmap",
+            "file":"sandsoftime:font/menu_button.png",
+            "chars":["\uA003"],
+            "ascent":7,
+            "height":8
+        },
+        {
+            "type":"bitmap",
+            "file":"sandsoftime:font/menu_footer.png",
+            "chars":["\uA004"],
+            "ascent":7,
+            "height":108
+        },
+        {
+            "type":"bitmap",
+            "file":"sandsoftime:font/menu_header.png",
+            "chars":["\uA005"],
+            "ascent":89,
+            "height":90
         }
     ]
 }
