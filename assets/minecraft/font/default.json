@@ -23,13 +23,6 @@
         },
         {
             "type":"bitmap",
-            "file":"sandsoftime:font/menu_button.png",
-            "chars":["\uA003"],
-            "ascent":7,
-            "height":8
-        },
-        {
-            "type":"bitmap",
             "file":"sandsoftime:font/menu_footer.png",
             "chars":["\uA004"],
             "ascent":7,
