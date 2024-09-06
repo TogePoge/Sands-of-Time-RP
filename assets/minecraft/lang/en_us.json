@@ -3,7 +3,7 @@
     "death.attack.ran_out_of_time.player": "%1$s ran out of time because of %2$s",
     "menu.game":"",
     "menu.returnToGame":"\uA005",
-    "gui.advancements":"Sands of Time Settings",
+    "gui.advancements":"Game Settings",
     "menu.shareToLan":"\uA003",
     "menu.returnToMenu":"\uA004",
     "advancements.empty":"\uA002",
