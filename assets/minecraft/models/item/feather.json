@@ -6,6 +6,7 @@
     "overrides": [
       {"predicate": {"custom_model_data": 1},"model": "sandsoftime:sandsoftime/color_fade"},
       {"predicate": {"custom_model_data": 2},"model": "sandsoftime:sandsoftime/lime_color_fade"},
-      {"predicate": {"custom_model_data": 3},"model": "sandsoftime:sandsoftime/red_color_fade"}
+      {"predicate": {"custom_model_data": 3},"model": "sandsoftime:sandsoftime/red_color_fade"},
+      {"predicate": {"custom_model_data": 10},"model": "sandsoftime:sandsoftime/lava_still"}
     ]
   }
